@@ -21,3 +21,5 @@ globalIndex = np.unravel_index(terrain.argmax(),terrain.shape)
 print(terrain)
 print(globalOptima)
 print(globalIndex)
+
+asdkfmklsdmfkldsamfklsdamfklsdamfklsa
