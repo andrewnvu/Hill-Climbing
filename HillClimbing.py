@@ -22,4 +22,5 @@ print(terrain)
 print(globalOptima)
 print(globalIndex)
 
-asdkfmklsdmfkldsamfklsdamfklsdamfklsa
+print(globalOptima)
+print(globalOptima)
